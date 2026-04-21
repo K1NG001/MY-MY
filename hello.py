@@ -1,2 +1,2 @@
 print("my my")
-print("we we")
+print("mi we")
